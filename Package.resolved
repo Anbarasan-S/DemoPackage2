@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Anbarasan-S/SwiftPackageManager.git",
+      "state" : {
+        "revision" : "e7ef1ff19af34c9744cc9e4718175f80a8e1d5c9",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
